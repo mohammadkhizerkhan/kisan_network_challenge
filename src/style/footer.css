@@ -1,0 +1,22 @@
+.footer{
+    background-color: #28373E;
+    padding: 2rem;
+}
+
+.footer > .container{
+    max-width: 40rem;
+}
+
+.footer>.container>section>h3{
+    color: white;
+}
+.footer>.container>section>p{
+    color: #6b907f;
+}
+
+@media(max-width:500px){
+    .container{
+        flex-direction: column;
+        gap: 1rem;
+    }
+}

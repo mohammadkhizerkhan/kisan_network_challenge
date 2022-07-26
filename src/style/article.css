@@ -1,0 +1,16 @@
+.article-cont{
+    margin: 2rem 0;
+}
+.article-card {
+  width: 18rem;
+  height: fit-content;
+  border: 2px solid #aca4a4;
+}
+
+.article-desc{
+    padding: 0 10px 10px 10px;
+}
+
+.article-desc>h2{
+    color: #1FD6CA;
+}
