@@ -6,9 +6,7 @@ function Articles() {
     <div className="article-cont">
       <div className="container flex-column">
         <div className="heading">
-            <div className="line"></div>
-            <div>Related Articles</div>
-            <div className="line"></div>
+            <h2>Related Articles</h2>
         </div>
         <div className="flex gap-2">
         <article className="article-card">
