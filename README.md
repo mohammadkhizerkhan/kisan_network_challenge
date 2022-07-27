@@ -1,7 +1,8 @@
 ## project repo link:
 [repository-link](https://github.com/mohammadkhizerkhan/kisan_network_challenge)
 
-
+## assumption
+doing this in react for modular code
 
 
 ## Available Scripts
