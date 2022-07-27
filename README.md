@@ -1,6 +1,8 @@
-# Getting Started with Create React App
+## project repo link:
+[repository-link](https://github.com/mohammadkhizerkhan/kisan_network_challenge)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+
 
 ## Available Scripts
 
