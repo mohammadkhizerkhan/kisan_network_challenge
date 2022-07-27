@@ -16,11 +16,11 @@ function Navbar() {
           </label>
         </div>
         <div class="nav-links">
-          <a href="//github.io/jo_geek">HOME</a>
-          <a href="http://stackoverflow.com/users/4084003/">DAPIBUS</a>
-          <a href="https://in.linkedin.com/in/jonesvinothjoseph">ULTRICIES</a>
-          <a href="https://codepen.io/jo_Geek/">BIBENDUM</a>
-          <a href="https://jsfiddle.net/user/jo_Geek/">MAGNA</a>
+          <a href="">HOME</a>
+          <a href="">DAPIBUS</a>
+          <a href="">ULTRICIES</a>
+          <a href="">BIBENDUM</a>
+          <a href="">MAGNA</a>
         </div>
       </div>
     </div>

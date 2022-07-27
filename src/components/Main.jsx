@@ -39,7 +39,7 @@ function Main() {
               aspernatur iste ut corporis, nam fugit facere minima libero sunt
               beatae, esse maiores incidunt asperiores.
             </p>
-            <div className="quote-para">
+            <p className="quote-para">
               Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad
               mollitia perspiciatis dolor commodi laborum, officiis ullam
               veritatis in accusantium placeat quae earum a vero aspernatur, qui
@@ -66,8 +66,12 @@ function Main() {
               vitae! Laudantium perferendis minus perspiciatis quam non tempore
               mollitia amet incidunt laborum saepe. Quod rem nobis quia hic odio
               distinctio vero tempora aliquid praesentium voluptatum. Laboriosam
-              suscipit voluptatum corrupti!
-            </div>
+              suscipit voluptatum corrupti Lorem ipsum dolor sit amet
+              consectetur, adipisicing elit. Ratione necessitatibus pariatur
+              accusantium! Et aspernatur praesentium, veritatis vitae aliquam
+              nostrum corporis alias eos, deserunt ipsam maiores quam magnam rem
+              exercitationem sunt?
+            </p>
             <div className="heading">
               <h2>More in this series</h2>
             </div>

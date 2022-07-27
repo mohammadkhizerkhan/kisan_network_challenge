@@ -18,12 +18,13 @@
   font-size: 1.4rem;
 }
 
+
 .quote {
   padding: 1.5rem;
   display: inline;
   width: 60%;
   float: right;
-  color: rgb(0, 167, 117);
+  color: #79858F;
 }
 
 .sub-main-desc {
@@ -43,7 +44,7 @@
   width: 30%;
 }
 .main-article-card h2 {
-  color: rgb(3, 204, 204);
+  color: var(--primary-color)
 }
 .main-article-desc {
   width: 70%;
@@ -54,7 +55,7 @@
   display: flex;
   flex-direction: column;
   align-items: center;
-  border: 1px solid lightgrey;
+  border: 1px solid var(--border-color);
   border-radius: 3px;
 }
 .sub-menu > h3 {
@@ -71,11 +72,11 @@
   width: 100%;
   padding: 8px 0;
   padding-left: 1rem;
-  color: rgb(3, 204, 204);
+  color: var(--primary-color);
 }
 
 .sub-menu > ul > li:first-child {
-  background-color: rgb(3, 204, 204);
+  background-color: var(--primary-color);
   color: white;
 }
 
@@ -146,12 +147,12 @@
   margin-bottom: 8px;
 }
 .message-input {
-  border: 2px solid #b5b5af;
+  border: 2px solid var(--border-color);
   border-radius: 3px;
 }
 
 .btn {
-  background-color: rgb(3, 204, 204);
+  background-color: var(--primary-color);
   color: white;
   padding: 10px;
   border: none;
@@ -174,6 +175,10 @@
 }
 .map {
   width: 100%;
+}
+
+.sub-main-2 .sub-main-desc .quote-para{
+    margin-bottom: 7rem;
 }
 
 @media (max-width: 980px) {

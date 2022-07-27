@@ -4,7 +4,7 @@
 .article-card {
   width: 18rem;
   height: fit-content;
-  border: 2px solid #aca4a4;
+  border: 2px solid var(--border-color);
   border-radius: 3px;
 }
 
@@ -13,7 +13,7 @@
 }
 
 .article-desc>h2{
-    color: #1FD6CA;
+    color: var(--primary-color);
 }
 
 @media(max-width:980px){
